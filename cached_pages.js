@@ -2,9 +2,9 @@ const cacheName = 'v2';
 
 const cacheAssets = [
     'home.html',
-//     'about.html',
-//     '/css/styles.css',
-//     '/js/main.js'
+    'about.html',
+    '/css/styles.css',
+    '/js/main.js'
 ];
 
 self.addEventListener('install', e => {
